@@ -74,9 +74,14 @@ nav li a{
     font-weight: 600px;
 }
 
+.banner-description{
+    font-weight: 600;
+    font-size: large;
+}
+
 .banner-name{
     font-weight: bold;
-    font-size: 85px;
+    font-size: 60px;
 }
 .banner-profile-picture{
     width: 580px;
